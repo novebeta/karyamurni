@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+#galery {
+  min-height: 200px;
+}
+
+div.box {
+  width: 70px;
+  height: 70px;
+  background-color: rgb(100, 100, 255);
+  border: solid 2px black;
+  display: inline-block;
+  position: absolute;
+  box-sizing: border-box;
+}
